@@ -304,7 +304,7 @@ button {
     width: 100%;
     float: left;
     font-size: 60px;
-    color: #ea3675;
+    color: #FF8D1A;
     padding-top: 90px;
 }
 .retailer_text_1 {
@@ -330,7 +330,7 @@ button {
 #my_slider .carousel-control-prev, #my_slider .carousel-control-next {
     width: 65px;
     height: 65px;
-    background: #ea3675;
+    background: #FF8D1A;
     opacity: 1;
     font-size: 30px;
     color: #000;
@@ -430,7 +430,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -477,7 +477,7 @@ button {
 
 .read_bt a:hover{
     color: #ffffff;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
 }
 .image_3{
     width: 100%;
@@ -570,11 +570,11 @@ button {
     border-radius: 3px;
 }
 .all_menu li a:hover{
-    background-color: #ea3675;
+    background-color: #FF8D1A;
     color: #ffffff;
 }
 .all_menu li.active a{
-    background-color: #ea3675;
+    background-color: #FF8D1A;
     color: #ffffff;
 }
 .images_section {
@@ -633,7 +633,7 @@ button {
 }
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
 }
 .newsletter_section {
     width: 100%;
@@ -649,7 +649,7 @@ button {
     width: 50%;
     margin: 0 auto;
     text-align: center;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
     border: 10px solid #fff3f7;
     border-radius: 250px;
     display: grid;
@@ -703,7 +703,7 @@ button {
     text-transform: uppercase;
 }
 .submit_bt a:hover {
-    color: #ea3675;
+    color: #FF8D1A;
     background-color: #ffffff;
 }
 .input_main {
@@ -760,7 +760,7 @@ button {
 }
 .send_bt a:hover {
     color: #ffffff;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
 }
 .footer_section{
     width: 100%;
@@ -813,12 +813,12 @@ button {
     color: #ffffff;
 }
 .footer_menu li a:hover{
-    color: #ea3675;
+    color: #FF8D1A;
 }
 .footer_menu li::after {
     content: '';
     position: absolute;
-    background-color: #ea3675;
+    background-color: #FF8D1A;
     height: 10px;
     width: 10px;
     left: 0px;
@@ -879,7 +879,7 @@ button {
     color: #ffffff;ea3675
 }
 .copyright_text a:hover{
-    color: #ea3675;
+    color: #FF8D1A;
 }
 .background_bg{
     width: 100%;
